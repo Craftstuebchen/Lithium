@@ -1,6 +1,4 @@
 # Lithium Issue
-
-
 ### Faulty Component (Forge Mod, Spigot Plugin or Backend)
 
 
